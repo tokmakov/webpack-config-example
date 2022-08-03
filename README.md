@@ -8,7 +8,7 @@
 
 -----
 
-Файл `webpack.config-single.js` — пример файла конфигурации в одном файле.
+Файл `webpack.config-single.js` — пример конфигурации в одном файле.
 
 Файлы `webpack.config.js`, `webpack.common.js`, `webpack.development.js`, `webpack.production.js` — пример конфигурации с объединением конфигурации из `webpack.common.js` с конфигурацией из `webpack.development.js` или `webpack.production.js`.
 

@@ -1,0 +1,10 @@
+@import 'vars';
+@import 'font';
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: $background-color;
+    box-sizing: border-box;
+    font-family: $font-family;
+}
